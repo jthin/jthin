@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jthin/jthin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- ☸️ Kubernetes and Cloud Native specialist
+- ☁️ Public Cloud with main focus on Microsoft Azure
+- 🛡️ Cybersecurity enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about cloud-native technologies, Kubernetes, platform engineering, dev experience, security and automation.
+
+## My Articles
+
+### Cloud Native (co-author)
+
+- 21 June 2022 -- [Using Spark on Kubernetes](https://blog.cellenza.com/en/data/using-spark-with-kubernetes-k8s/)
+- 17 June 2021 -- [Mettre en place sa stratégie de migration vers Kubernetes](https://blog.cellenza.com/cloud-2/conteneurs/mettre-en-place-sa-strategie-de-migration-vers-kubernetes/)
+- 14 June 2021 -- [Stratégie de CI/CD sur Kubernetes](https://blog.cellenza.com/cloud-2/strategie-de-ci-cd-sur-kubernetes/)
+
+### Progressive Web Apps (PWA)
+
+- 3 December 2020 -- [Tout savoir sur la Progressive Web App (PWA)](https://blog.cellenza.com/developpement-specifique/tout-savoir-sur-la-progressive-web-app-pwa/)
+- 9 December 2020 -- [Comment transformer une application web en application mobile ?](https://blog.cellenza.com/developpement-specifique/comment-transformer-une-application-web-en-application-mobile/)
+
+### Microsoft 365/Office 365
+- 19 June 2019 -- [Le mode offline sur une application PowerApps](https://blog.cellenza.com/collaboratif/le-mode-offline-sur-une-application-powerapps/)
