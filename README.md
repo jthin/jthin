@@ -22,4 +22,6 @@ Passionate about cloud-native technologies, Kubernetes, platform engineering, de
 - 9 December 2020 -- [Comment transformer une application web en application mobile ?](https://blog.cellenza.com/developpement-specifique/comment-transformer-une-application-web-en-application-mobile/)
 
 ### Microsoft 365/Office 365
+
+- 17 April 2020 -- [Tips Teams – Utiliser de multiples organisations Microsoft Teams en même temps](https://blog.cellenza.com/collaboratif/tips-teams-utiliser-de-multiples-organisations-microsoft-teams-en-meme-temps/)
 - 19 June 2019 -- [Le mode offline sur une application PowerApps](https://blog.cellenza.com/collaboratif/le-mode-offline-sur-une-application-powerapps/)
